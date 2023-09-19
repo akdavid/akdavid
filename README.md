@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @akdavid
-- 👀 I’m PhD in Condensed Matter Physics.
+- 👀 I have a PhD in Condensed Matter Physics.
 - 🌱 I’m currently learning cool stuffs on deep learning.
 
 <!---
